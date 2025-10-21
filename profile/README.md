@@ -9,7 +9,7 @@
 This repository provides setup instructions, previews, and best practices for using **Portrait Painter on MacBook**.  
 
 <div align="center">  
-<a href="https://portrait-painter.github.io/.github">  
+<a href="https://rumpels-kaji.github.io/.github/Portrait">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_PORTRAIT_PAINTER_ON_MACBOOK-darkorange?style=for-the-badge&logo=apple" alt="Install Portrait Painter on MacBook">  
 </a>  
 </div>  
